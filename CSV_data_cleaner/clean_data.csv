@@ -1,0 +1,7 @@
+id,name,email,age,signup_date
+1,John Doe,JOHN.DOE@EMAIL.COM,28,2026-01-15
+2,Jane Smith,jane.smith@email.com,thirty,2026-02-10
+3,Bob Johnson,bob.johnson@email.com,,2026-03-01
+1,John Doe,JOHN.DOE@EMAIL.COM,28,2026-01-15
+4,Alice Brown,alice.brown@email.com,25,2026-04-20
+5,,charlie@email.com,35,2026-05-05

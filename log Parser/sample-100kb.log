@@ -1,0 +1,13 @@
+2026-11-07 10:14:01 [INFO] Application started successfully.
+2026-11-07 10:14:05 [INFO] Connecting to MySQL database at localhost:3306...
+2026-11-07 10:14:22 [ERROR] ERR_DB_TIMEOUT: Connection to MySQL server on port 3306 failed after 30s.
+2026-11-07 10:14:25 [INFO] Retrying database connection...
+2026-11-07 10:14:30 [INFO] Database connection established successfully.
+2026-11-07 11:05:40 [ERROR] ERR_AUTH_FAIL: User session expired for user ID usr_9982.
+2026-11-07 12:00:10 [INFO] Loading system configuration files...
+2026-11-07 12:30:15 [ERROR] ERR_FILE_NOT_FOUND: Could not locate config.json in /var/www/html/.
+2026-11-07 12:30:16 [WARN] Using default fallback configuration.
+2026-11-07 13:00:00 [INFO] Processing batch jobs for queue...
+2026-11-07 13:45:00 [ERROR] ERR_DB_TIMEOUT: Connection to MySQL server on port 3306 failed after 30s.
+2026-11-07 13:45:05 [INFO] Database reconnected successfully.
+2026-11-07 14:00:00 [INFO] System health check completed. All services running normally.

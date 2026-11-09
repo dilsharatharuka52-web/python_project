@@ -6,26 +6,14 @@ This repository contains the Python mini projects I built while learning Python 
 
 ## Projects List
 
-| No. | Project | Description | Status |
-|-----|---------|-------------|--------|
-| 1 | Weather CLI | Get real-time weather using OpenWeatherMap API | Completed |
-| 2 | System Info Reporter | Display system information (CPU, RAM, Disk, OS) | Completed |
-| 3 | File Organiser | Automatically organize files by extension | Completed |
-| 4 | Password Generator | Generate strong passwords from command line | Upcoming |
-| 5 | Log Parser | Read log files and generate reports | Upcoming |
-
----
-
-## Project Details
-
-### 1. Weather CLI
-A command-line tool that fetches current weather data for any city.
-
-**Features:**
-- Uses OpenWeatherMap API
-- API key stored securely in `.env`
-- Supports command-line arguments (`argparse`)
-
-**How to run:**
-```bash
-python weather.py --city Colombo
+### Python Mini Projects (Must complete all 10)
+- [x] #1 System info reporter (CPU, memory, disk)
+- [x] #2 File organiser (by extension)
+- [x] #3 Weather CLI (free API)
+- [x] #4 CSV data cleaner
+- [] #5 Simple web scraper
+- [ ] #6 Password generator CLI
+- [x] #7 Log parser + report
+- [x] #8 GitHub repo lister (API)
+- [ ] #9 Expense tracker (CSV)
+- [ ] #10 Automated file backup
